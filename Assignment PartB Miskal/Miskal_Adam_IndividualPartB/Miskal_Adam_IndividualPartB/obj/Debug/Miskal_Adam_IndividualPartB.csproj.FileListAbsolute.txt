@@ -1,0 +1,22 @@
+C:\Users\adamn\source\repos\Miskal_Adam_IndividualPartB\Miskal_Adam_IndividualPartB\bin\Debug\Miskal_Adam_IndividualPartB.exe.config
+C:\Users\adamn\source\repos\Miskal_Adam_IndividualPartB\Miskal_Adam_IndividualPartB\bin\Debug\Miskal_Adam_IndividualPartB.exe
+C:\Users\adamn\source\repos\Miskal_Adam_IndividualPartB\Miskal_Adam_IndividualPartB\bin\Debug\Miskal_Adam_IndividualPartB.pdb
+C:\Users\adamn\source\repos\Miskal_Adam_IndividualPartB\Miskal_Adam_IndividualPartB\bin\Debug\EntityFramework.dll
+C:\Users\adamn\source\repos\Miskal_Adam_IndividualPartB\Miskal_Adam_IndividualPartB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adamn\source\repos\Miskal_Adam_IndividualPartB\Miskal_Adam_IndividualPartB\bin\Debug\EntityFramework.xml
+C:\Users\adamn\source\repos\Miskal_Adam_IndividualPartB\Miskal_Adam_IndividualPartB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adamn\source\repos\Miskal_Adam_IndividualPartB\Miskal_Adam_IndividualPartB\obj\Debug\Miskal_Adam_IndividualPartB.csproj.AssemblyReference.cache
+C:\Users\adamn\source\repos\Miskal_Adam_IndividualPartB\Miskal_Adam_IndividualPartB\obj\Debug\Miskal_Adam_IndividualPartB.csproj.CoreCompileInputs.cache
+C:\Users\adamn\source\repos\Miskal_Adam_IndividualPartB\Miskal_Adam_IndividualPartB\obj\Debug\Miskal_Adam_IndividualPartB.exe
+C:\Users\adamn\source\repos\Miskal_Adam_IndividualPartB\Miskal_Adam_IndividualPartB\obj\Debug\Miskal_Adam_IndividualPartB.pdb
+C:\Users\adamn\Desktop\Assignment PartB Miskal\Miskal_Adam_IndividualPartB\Miskal_Adam_IndividualPartB\bin\Debug\Miskal_Adam_IndividualPartB.exe.config
+C:\Users\adamn\Desktop\Assignment PartB Miskal\Miskal_Adam_IndividualPartB\Miskal_Adam_IndividualPartB\bin\Debug\Miskal_Adam_IndividualPartB.exe
+C:\Users\adamn\Desktop\Assignment PartB Miskal\Miskal_Adam_IndividualPartB\Miskal_Adam_IndividualPartB\bin\Debug\Miskal_Adam_IndividualPartB.pdb
+C:\Users\adamn\Desktop\Assignment PartB Miskal\Miskal_Adam_IndividualPartB\Miskal_Adam_IndividualPartB\bin\Debug\EntityFramework.dll
+C:\Users\adamn\Desktop\Assignment PartB Miskal\Miskal_Adam_IndividualPartB\Miskal_Adam_IndividualPartB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adamn\Desktop\Assignment PartB Miskal\Miskal_Adam_IndividualPartB\Miskal_Adam_IndividualPartB\bin\Debug\EntityFramework.xml
+C:\Users\adamn\Desktop\Assignment PartB Miskal\Miskal_Adam_IndividualPartB\Miskal_Adam_IndividualPartB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adamn\Desktop\Assignment PartB Miskal\Miskal_Adam_IndividualPartB\Miskal_Adam_IndividualPartB\obj\Debug\Miskal_Adam_IndividualPartB.csproj.AssemblyReference.cache
+C:\Users\adamn\Desktop\Assignment PartB Miskal\Miskal_Adam_IndividualPartB\Miskal_Adam_IndividualPartB\obj\Debug\Miskal_Adam_IndividualPartB.csproj.CoreCompileInputs.cache
+C:\Users\adamn\Desktop\Assignment PartB Miskal\Miskal_Adam_IndividualPartB\Miskal_Adam_IndividualPartB\obj\Debug\Miskal_Adam_IndividualPartB.exe
+C:\Users\adamn\Desktop\Assignment PartB Miskal\Miskal_Adam_IndividualPartB\Miskal_Adam_IndividualPartB\obj\Debug\Miskal_Adam_IndividualPartB.pdb

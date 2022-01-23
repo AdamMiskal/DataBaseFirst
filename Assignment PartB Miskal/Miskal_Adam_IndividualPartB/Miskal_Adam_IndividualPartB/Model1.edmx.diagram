@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="6ea6bae7d26a4796bfb04bff89d804c8" Name="Diagram1">
+        <EntityTypeShape EntityType="MISKALSCHOOLModel.Assignment" Width="1.5" PointX="3.75" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MISKALSCHOOLModel.Course" Width="1.5" PointX="3.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MISKALSCHOOLModel.Student" Width="1.5" PointX="1.25" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MISKALSCHOOLModel.Trainer" Width="1.5" PointX="6.375" PointY="5.125" IsExpanded="true" />
+        <AssociationConnector Association="MISKALSCHOOLModel.fk_courseid3" ManuallyRouted="false" />
+        <AssociationConnector Association="MISKALSCHOOLModel.Course_Student" ManuallyRouted="false" />
+        <AssociationConnector Association="MISKALSCHOOLModel.Course_Trainer" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
